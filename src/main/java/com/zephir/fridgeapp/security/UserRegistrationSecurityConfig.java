@@ -19,7 +19,9 @@ public class UserRegistrationSecurityConfig {
             "/register/**",
             "/users/**",
             "/fridges/**",
-            "/verification-token/**"
+            "/verification-token/**",
+            "/fridgeitems/**",
+            "/fooditems/**"
 
     };
 
